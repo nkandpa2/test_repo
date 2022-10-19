@@ -1,0 +1,2 @@
+".git_cml/my_model.pt/**/params/[0-9]*" filter=lfs diff=lfs merge=lfs -text
+my_model.pt filter=cml
